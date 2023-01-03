@@ -1,0 +1,40 @@
+/* .main-card-cointainer {
+   display: flex;
+   justify-content: space-between;
+   flex-wrap: wrap;
+  }
+
+  .card-container {
+    margin: 25px auto 0;
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: space-around;
+    align-items: flex-start;
+  }
+
+  .card {
+    background-color: #fff;
+    padding: 30px;
+    position: relative;
+    box-shadow: 0 0 5px rgba(75, 75, 75, 0.07);
+    z-index: 1;
+  }
+
+  .card-body {
+    display: inline-block;
+  }
+  
+  .card-number {
+    margin-top: 15px;
+  } */
+
+  div.content {
+    margin-left: 200px;
+    padding: 1px 16px;
+    height: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    /* margin-right: 10px; */
+  }
